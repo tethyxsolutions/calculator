@@ -21,13 +21,13 @@
 <body>
 
 <div class="card text-center">
-  <div class="card-header">Calculator</div>
+  <div class="card-header">TS PRC 2021 Online Arears Bill Calculator for Pensioners </div>
   <div class="card-body">
     <form  action="code.php" method="POST">
 		  <div class="form-group">
 		    <label for="exampleInputEmail1">Enter Basis Pay</label>
 		    <input type="text" class="form-control i1" name="value" >
-		    <small id="emailHelp" class="form-text text-muted">Enter Basis Pay.</small>
+		    <small id="emailHelp" class="form-text text-muted">TS PRC 2021 Online Arears Bill Calculator for Pensioners.</small>
 		  </div>
 
 	  	<input type="submit"  class="btn btn-primary"> 
